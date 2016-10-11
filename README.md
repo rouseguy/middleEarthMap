@@ -2,4 +2,8 @@
 
 *Source:* http://www.r-chart.com/2016/10/map-of-middle-earth-map-above-was.html 
 
+The repo is forked from: https://github.com/jvangeld/ME-GIS
+
+[Code and the map of Middle Earth](code/middleEarth.nb.html)
+
 
